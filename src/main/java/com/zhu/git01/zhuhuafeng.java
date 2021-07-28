@@ -9,6 +9,8 @@ public class zhuhuafeng {
         System.out.println("我爱你git_master");
         System.out.println("我爱你git_hot");
         System.out.println("push_git");
+        System.out.println("66666666666666666666");
+
 
 
     }
