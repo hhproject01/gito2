@@ -12,6 +12,7 @@ public class zhuhuafeng {
         System.out.println("66666666666666666666");
         System.out.println("72972979729759797");
 
+        System.out.println("730303030303030");
 
     }
 }
